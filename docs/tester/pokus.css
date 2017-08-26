@@ -1,0 +1,7 @@
+h1 {
+    color: crimson;
+}
+
+p.main.hero {
+    border: 10px solid rgb(255, 0, 255);
+}
